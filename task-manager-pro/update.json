@@ -1,0 +1,7 @@
+{
+  "version": "1.0.93",
+  "build": 193,
+  "notes": "Make Pro activation accept keys generated with the current license secret and move update checks onto the shared public manifest feed.",
+  "arm64AssetURL": "https://github.com/agraja38/Task-Manager-Pro/releases/download/v1.0.93/TaskManagerPro-1.0.93-apple-silicon.dmg",
+  "x86_64AssetURL": "https://github.com/agraja38/Task-Manager-Pro/releases/download/v1.0.93/TaskManagerPro-1.0.93-intel.dmg"
+}
