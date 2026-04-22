@@ -1,7 +1,7 @@
 {
-  "version": "1.0.94",
-  "build": 194,
-  "notes": "Fix manual fan control so Task Manager Pro can wake parked fans before settling at the requested RPM.",
-  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.94/TaskManagerPro-1.0.94-apple-silicon.dmg",
-  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.94/TaskManagerPro-1.0.94-intel.dmg"
+  "version": "1.0.95",
+  "build": 195,
+  "notes": "Tighten the Settings experience controls and clean up the Edition and License widget when Pro is already active.",
+  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.95/TaskManagerPro-1.0.95-apple-silicon.dmg",
+  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.95/TaskManagerPro-1.0.95-intel.dmg"
 }
