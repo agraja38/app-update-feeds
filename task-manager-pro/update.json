@@ -1,7 +1,7 @@
 {
-  "version": "1.0.93",
-  "build": 193,
-  "notes": "Make Pro activation accept keys generated with the current license secret and move update checks onto the shared public manifest feed.",
-  "arm64AssetURL": "https://github.com/agraja38/Task-Manager-Pro/releases/download/v1.0.93/TaskManagerPro-1.0.93-apple-silicon.dmg",
-  "x86_64AssetURL": "https://github.com/agraja38/Task-Manager-Pro/releases/download/v1.0.93/TaskManagerPro-1.0.93-intel.dmg"
+  "version": "1.0.94",
+  "build": 194,
+  "notes": "Fix manual fan control so Task Manager Pro can wake parked fans before settling at the requested RPM.",
+  "arm64AssetURL": "https://github.com/agraja38/Task-Manager-Pro/releases/download/v1.0.94/TaskManagerPro-1.0.94-apple-silicon.dmg",
+  "x86_64AssetURL": "https://github.com/agraja38/Task-Manager-Pro/releases/download/v1.0.94/TaskManagerPro-1.0.94-intel.dmg"
 }
