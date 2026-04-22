@@ -1,7 +1,7 @@
 {
-  "version": "1.0.95",
-  "build": 195,
-  "notes": "Tighten the Settings experience controls and clean up the Edition and License widget when Pro is already active.",
-  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.95/TaskManagerPro-1.0.95-apple-silicon.dmg",
-  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.95/TaskManagerPro-1.0.95-intel.dmg"
+  "version": "1.0.96",
+  "build": 196,
+  "notes": "Move manual fan controls into a dedicated Fans tab and make the Settings experience controls noticeably smaller.",
+  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.96/TaskManagerPro-1.0.96-apple-silicon.dmg",
+  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.96/TaskManagerPro-1.0.96-intel.dmg"
 }
