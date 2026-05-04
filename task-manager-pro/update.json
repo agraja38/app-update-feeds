@@ -1,7 +1,7 @@
 {
-  "version": "1.0.96",
-  "build": 196,
-  "notes": "Move manual fan controls into a dedicated Fans tab and make the Settings experience controls noticeably smaller.",
-  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.96/TaskManagerPro-1.0.96-apple-silicon.dmg",
-  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.96/TaskManagerPro-1.0.96-intel.dmg"
+  "version": "1.0.97",
+  "build": 197,
+  "notes": "Fix manual fan speed controls and restore comfortable settings button and dropdown sizing.",
+  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.97/TaskManagerPro-1.0.97-apple-silicon.dmg",
+  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.97/TaskManagerPro-1.0.97-intel.dmg"
 }
