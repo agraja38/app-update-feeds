@@ -1,7 +1,7 @@
 {
-  "version": "1.0.101",
-  "build": 201,
-  "notes": "Open Fan Controls directly to the Fans tab and keep parked-fan wake requests applied instead of failing on delayed RPM telemetry.",
-  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.101/TaskManagerPro-1.0.101-apple-silicon.dmg",
-  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.101/TaskManagerPro-1.0.101-intel.dmg"
+  "version": "1.0.102",
+  "build": 202,
+  "notes": "Fix fan RPM encoding for AppleSMC manual controls and restore reliable fan target application.",
+  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.102/TaskManagerPro-1.0.102-apple-silicon.dmg",
+  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.102/TaskManagerPro-1.0.102-intel.dmg"
 }
