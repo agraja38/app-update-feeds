@@ -1,7 +1,7 @@
 {
-  "version": "1.0.100",
-  "build": 200,
-  "notes": "Show Auto and Full Blast tick marks in the fan menu and improve zero-RPM fan wake-up control.",
-  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.100/TaskManagerPro-1.0.100-apple-silicon.dmg",
-  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.100/TaskManagerPro-1.0.100-intel.dmg"
+  "version": "1.0.101",
+  "build": 201,
+  "notes": "Open Fan Controls directly to the Fans tab and keep parked-fan wake requests applied instead of failing on delayed RPM telemetry.",
+  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.101/TaskManagerPro-1.0.101-apple-silicon.dmg",
+  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.101/TaskManagerPro-1.0.101-intel.dmg"
 }
