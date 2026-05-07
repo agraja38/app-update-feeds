@@ -1,7 +1,7 @@
 {
-  "version": "1.0.102",
-  "build": 202,
-  "notes": "Fix fan RPM encoding for AppleSMC manual controls and restore reliable fan target application.",
-  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.102/TaskManagerPro-1.0.102-apple-silicon.dmg",
-  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.102/TaskManagerPro-1.0.102-intel.dmg"
+  "version": "1.0.103",
+  "build": 203,
+  "notes": "Wake parked fans with the AppleSMC Ftst unlock path and keep manual fan control latched while macOS yields control.",
+  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.103/TaskManagerPro-1.0.103-apple-silicon.dmg",
+  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.103/TaskManagerPro-1.0.103-intel.dmg"
 }
