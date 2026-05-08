@@ -1,7 +1,7 @@
 {
-  "version": "1.0.103",
-  "build": 203,
-  "notes": "Wake parked fans with the AppleSMC Ftst unlock path and keep manual fan control latched while macOS yields control.",
-  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.103/TaskManagerPro-1.0.103-apple-silicon.dmg",
-  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.103/TaskManagerPro-1.0.103-intel.dmg"
+  "version": "1.0.104",
+  "build": 204,
+  "notes": "Run fan wake operations in the background so the app stays responsive while parked fans spin up.",
+  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.104/TaskManagerPro-1.0.104-apple-silicon.dmg",
+  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.104/TaskManagerPro-1.0.104-intel.dmg"
 }
