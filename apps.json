@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "task-manager-pro",
+    "name": "Task Manager Pro",
+    "repository": "Task-Manager-Pro",
+    "platforms": ["macOS"],
+    "description": "A native macOS system utility for monitoring CPU, memory, processes, thermal state, and fans, with safe process controls and in-app updates.",
+    "feedURL": "https://raw.githubusercontent.com/agraja38/app-update-feeds/main/task-manager-pro/update.json"
+  },
+  {
+    "slug": "fetchlater",
+    "name": "FetchLater",
+    "repository": "FetchLater",
+    "platforms": ["macOS", "Windows"],
+    "description": "A cross-platform desktop download manager for scheduling downloads, tracking progress, validating links, retrying failures, and installing updates.",
+    "feedURL": "https://raw.githubusercontent.com/agraja38/app-update-feeds/main/fetchlater/update.json"
+  },
+  {
+    "slug": "pinetmonitor",
+    "name": "PiNetMonitor",
+    "repository": "PiNetMonitor",
+    "platforms": ["Linux"],
+    "description": "A lightweight internet usage monitoring system for Raspberry Pi and Orange Pi gateway deployments, with SQLite reports and a local web dashboard.",
+    "feedURL": "https://raw.githubusercontent.com/agraja38/app-update-feeds/main/pinetmonitor/update.json"
+  },
+  {
+    "slug": "justquit",
+    "name": "justQuit",
+    "repository": "justQuit",
+    "platforms": ["macOS"],
+    "description": "A small native macOS menu bar app that closes regular apps while skipping menu bar and background apps, with protected apps, profiles, countdowns, and update checks.",
+    "feedURL": "https://raw.githubusercontent.com/agraja38/app-update-feeds/main/justquit/update.json"
+  },
+  {
+    "slug": "justquit-windows",
+    "name": "justQuit Windows",
+    "repository": "justQuit-Windows",
+    "platforms": ["Windows"],
+    "description": "A native Windows tray app for quitting selected regular apps, protecting important apps, saving profiles, restoring sessions, and using a global hotkey.",
+    "feedURL": "https://raw.githubusercontent.com/agraja38/app-update-feeds/main/justquit-windows/update.json"
+  },
+  {
+    "slug": "winswitch",
+    "name": "WinSwitch",
+    "repository": "WinSwitch",
+    "platforms": ["Windows"],
+    "description": "A Windows app switcher that brings macOS-like fullscreen swipe behavior to keyboard shortcuts and mapped touchpad gestures.",
+    "feedURL": "https://raw.githubusercontent.com/agraja38/app-update-feeds/main/winswitch/update.json"
+  }
+]

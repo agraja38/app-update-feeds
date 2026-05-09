@@ -1,0 +1,55 @@
+{
+  "version": "1.0.32",
+  "tag": "fetchlater-v1.0.32",
+  "publishedAt": "2026-04-16T06:17:03Z",
+  "releaseNotesURL": "https://github.com/agraja38/app-update-feeds/releases/tag/fetchlater-v1.0.32",
+  "notes": "Public updater assets for FetchLater v1.0.32.",
+  "downloads": [
+    {
+      "name": "FetchLater_1.0.32_aarch64.app.zip",
+      "platform": "macOS",
+      "arch": "arm64",
+      "url": "https://github.com/agraja38/app-update-feeds/releases/download/fetchlater-v1.0.32/FetchLater_1.0.32_aarch64.app.zip",
+      "sizeBytes": 5400503,
+      "updateAsset": true
+    },
+    {
+      "name": "FetchLater_1.0.32_aarch64.dmg",
+      "platform": "macOS",
+      "arch": "arm64",
+      "url": "https://github.com/agraja38/app-update-feeds/releases/download/fetchlater-v1.0.32/FetchLater_1.0.32_aarch64.dmg",
+      "sizeBytes": 6062135
+    },
+    {
+      "name": "FetchLater_1.0.32_x64.app.zip",
+      "platform": "macOS",
+      "arch": "x64",
+      "url": "https://github.com/agraja38/app-update-feeds/releases/download/fetchlater-v1.0.32/FetchLater_1.0.32_x64.app.zip",
+      "sizeBytes": 5730535,
+      "updateAsset": true
+    },
+    {
+      "name": "FetchLater_1.0.32_x64.dmg",
+      "platform": "macOS",
+      "arch": "x64",
+      "url": "https://github.com/agraja38/app-update-feeds/releases/download/fetchlater-v1.0.32/FetchLater_1.0.32_x64.dmg",
+      "sizeBytes": 6468353
+    },
+    {
+      "name": "FetchLater_1.0.32_arm64-setup.exe",
+      "platform": "Windows",
+      "arch": "arm64",
+      "url": "https://github.com/agraja38/app-update-feeds/releases/download/fetchlater-v1.0.32/FetchLater_1.0.32_arm64-setup.exe",
+      "sizeBytes": 3209452,
+      "updateAsset": true
+    },
+    {
+      "name": "FetchLater_1.0.32_x64-setup.exe",
+      "platform": "Windows",
+      "arch": "x64",
+      "url": "https://github.com/agraja38/app-update-feeds/releases/download/fetchlater-v1.0.32/FetchLater_1.0.32_x64-setup.exe",
+      "sizeBytes": 3609087,
+      "updateAsset": true
+    }
+  ]
+}

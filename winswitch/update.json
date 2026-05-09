@@ -1,0 +1,7 @@
+{
+  "version": "1.0.09",
+  "downloadUrl": "https://github.com/agraja38/app-update-feeds/releases/download/winswitch-v1.0.09/WinSwitch-Setup-x64.exe",
+  "releaseNotesUrl": "https://github.com/agraja38/app-update-feeds/releases/tag/winswitch-v1.0.09",
+  "notes": "Adds the new W-and-arrow app icon and switches to a low-level keyboard hook for Ctrl+Alt+Left and Ctrl+Alt+Right.",
+  "sizeBytes": null
+}

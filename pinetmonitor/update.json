@@ -1,0 +1,7 @@
+{
+  "version": "1.0.12",
+  "releaseNotesURL": "https://github.com/agraja38/app-update-feeds/releases",
+  "notes": "Latest private repository version. A public install/update package still needs to be published before public downloads can be enabled.",
+  "packageURL": null,
+  "sizeBytes": null
+}
