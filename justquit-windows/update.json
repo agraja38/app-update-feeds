@@ -1,7 +1,7 @@
 {
-  "version": "1.0.06",
-  "downloadUrl": "https://github.com/agraja38/app-update-feeds/releases/download/justquit-windows-v1.0.06/justQuit-Setup-x64.exe",
-  "releaseNotesUrl": "https://github.com/agraja38/app-update-feeds/releases/tag/justquit-windows-v1.0.06",
-  "notes": "Fixed the countdown flow, added a live countdown display in the tray menu and tray icon badge, and rebuilt x64 and ARM64 installers.",
+  "version": "1.2.10",
+  "downloadUrl": "https://github.com/agraja38/app-update-feeds/releases/download/justquit-windows-v1.2.10/justQuit-Setup-x64.exe",
+  "releaseNotesUrl": "https://github.com/agraja38/app-update-feeds/releases/tag/justquit-windows-v1.2.10",
+  "notes": "Fixes update feed decoding and keeps justQuit Pro licensing compatible with public feeds.",
   "sizeBytes": null
 }
