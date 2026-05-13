@@ -1,7 +1,7 @@
 {
-  "version": "1.0.104",
-  "build": 204,
-  "notes": "Run fan wake operations in the background so the app stays responsive while parked fans spin up.",
-  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.104/TaskManagerPro-1.0.104-apple-silicon.dmg",
-  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.104/TaskManagerPro-1.0.104-intel.dmg"
+  "version": "1.0.105",
+  "build": 205,
+  "notes": "Show a menu bar notice and return to Auto when macOS turns manually controlled fans back off.",
+  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.105/TaskManagerPro-1.0.105-apple-silicon.dmg",
+  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.105/TaskManagerPro-1.0.105-intel.dmg"
 }
