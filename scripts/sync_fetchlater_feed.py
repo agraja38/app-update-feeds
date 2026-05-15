@@ -135,7 +135,7 @@ def main() -> None:
         "version": version,
         "tag": release["tagName"],
         "publishedAt": release["publishedAt"],
-        "releaseNotesURL": release["url"],
+        "releaseNotesUrl": release["url"],
         "notes": notes,
         "downloads": downloads,
     }
