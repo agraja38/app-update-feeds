@@ -1,7 +1,7 @@
 {
-  "version": "1.0.105",
-  "build": 205,
-  "notes": "Show a menu bar notice and return to Auto when macOS turns manually controlled fans back off.",
-  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.105/TaskManagerPro-1.0.105-apple-silicon.dmg",
-  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.105/TaskManagerPro-1.0.105-intel.dmg"
+  "version": "1.0.106",
+  "build": 206,
+  "notes": "Require server activation for Pro license keys and bind each key to its allowed devices.",
+  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.106/TaskManagerPro-1.0.106-apple-silicon.dmg",
+  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.106/TaskManagerPro-1.0.106-intel.dmg"
 }
