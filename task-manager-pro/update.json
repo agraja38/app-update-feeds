@@ -1,7 +1,7 @@
 {
-  "version": "1.0.106",
-  "build": 206,
-  "notes": "Require server activation for Pro license keys and bind each key to its allowed devices.",
-  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.106/TaskManagerPro-1.0.106-apple-silicon.dmg",
-  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.106/TaskManagerPro-1.0.106-intel.dmg"
+  "version": "1.0.107",
+  "build": 207,
+  "notes": "Avoid 404 activation failures while the backend activation service is brought online.",
+  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.107/TaskManagerPro-1.0.107-apple-silicon.dmg",
+  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.107/TaskManagerPro-1.0.107-intel.dmg"
 }
