@@ -1,54 +1,54 @@
 {
-  "version": "1.0.36",
-  "tag": "fetchlater-v1.0.36",
-  "publishedAt": "2026-05-15T13:33:46Z",
-  "releaseNotesUrl": "https://github.com/agraja38/app-update-feeds/releases/tag/fetchlater-v1.0.36",
-  "notes": "Public updater assets for FetchLater v1.0.36.",
+  "version": "1.0.37",
+  "tag": "fetchlater-v1.0.37",
+  "publishedAt": "2026-05-18T11:24:24Z",
+  "releaseNotesUrl": "https://github.com/agraja38/app-update-feeds/releases/tag/fetchlater-v1.0.37",
+  "notes": "Public updater assets for FetchLater v1.0.37.",
   "downloads": [
     {
-      "name": "FetchLater_1.0.36_aarch64.app.zip",
+      "name": "FetchLater_1.0.37_aarch64.app.zip",
       "platform": "macOS",
       "arch": "arm64",
-      "url": "https://github.com/agraja38/app-update-feeds/releases/download/fetchlater-v1.0.36/FetchLater_1.0.36_aarch64.app.zip",
-      "sizeBytes": 5430589,
+      "url": "https://github.com/agraja38/app-update-feeds/releases/download/fetchlater-v1.0.37/FetchLater_1.0.37_aarch64.app.zip",
+      "sizeBytes": 5430231,
       "updateAsset": true
     },
     {
-      "name": "FetchLater_1.0.36_aarch64.dmg",
+      "name": "FetchLater_1.0.37_aarch64.dmg",
       "platform": "macOS",
       "arch": "arm64",
-      "url": "https://github.com/agraja38/app-update-feeds/releases/download/fetchlater-v1.0.36/FetchLater_1.0.36_aarch64.dmg",
-      "sizeBytes": 6088547
+      "url": "https://github.com/agraja38/app-update-feeds/releases/download/fetchlater-v1.0.37/FetchLater_1.0.37_aarch64.dmg",
+      "sizeBytes": 6092745
     },
     {
-      "name": "FetchLater_1.0.36_x64.app.zip",
+      "name": "FetchLater_1.0.37_x64.app.zip",
       "platform": "macOS",
       "arch": "x64",
-      "url": "https://github.com/agraja38/app-update-feeds/releases/download/fetchlater-v1.0.36/FetchLater_1.0.36_x64.app.zip",
-      "sizeBytes": 5747840,
+      "url": "https://github.com/agraja38/app-update-feeds/releases/download/fetchlater-v1.0.37/FetchLater_1.0.37_x64.app.zip",
+      "sizeBytes": 5750109,
       "updateAsset": true
     },
     {
-      "name": "FetchLater_1.0.36_x64.dmg",
+      "name": "FetchLater_1.0.37_x64.dmg",
       "platform": "macOS",
       "arch": "x64",
-      "url": "https://github.com/agraja38/app-update-feeds/releases/download/fetchlater-v1.0.36/FetchLater_1.0.36_x64.dmg",
-      "sizeBytes": 6495040
+      "url": "https://github.com/agraja38/app-update-feeds/releases/download/fetchlater-v1.0.37/FetchLater_1.0.37_x64.dmg",
+      "sizeBytes": 6498964
     },
     {
-      "name": "FetchLater_1.0.36_arm64-setup.exe",
+      "name": "FetchLater_1.0.37_arm64-setup.exe",
       "platform": "Windows",
       "arch": "arm64",
-      "url": "https://github.com/agraja38/app-update-feeds/releases/download/fetchlater-v1.0.36/FetchLater_1.0.36_arm64-setup.exe",
-      "sizeBytes": 3243742,
+      "url": "https://github.com/agraja38/app-update-feeds/releases/download/fetchlater-v1.0.37/FetchLater_1.0.37_arm64-setup.exe",
+      "sizeBytes": 3246484,
       "updateAsset": true
     },
     {
-      "name": "FetchLater_1.0.36_x64-setup.exe",
+      "name": "FetchLater_1.0.37_x64-setup.exe",
       "platform": "Windows",
       "arch": "x64",
-      "url": "https://github.com/agraja38/app-update-feeds/releases/download/fetchlater-v1.0.36/FetchLater_1.0.36_x64-setup.exe",
-      "sizeBytes": 3645252,
+      "url": "https://github.com/agraja38/app-update-feeds/releases/download/fetchlater-v1.0.37/FetchLater_1.0.37_x64-setup.exe",
+      "sizeBytes": 3648565,
       "updateAsset": true
     }
   ]
