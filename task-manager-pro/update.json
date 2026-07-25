@@ -1,7 +1,7 @@
 {
-  "version": "1.0.108",
-  "build": 208,
-  "notes": "Keep the fan override notice open until dismissed and stop re-waking fans after macOS parks them.",
-  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.108/TaskManagerPro-1.0.108-apple-silicon.dmg",
-  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.108/TaskManagerPro-1.0.108-intel.dmg"
+  "version": "1.0.109",
+  "build": 209,
+  "notes": "Correct CPU temperature readings with chip-specific Apple Silicon core sensors.",
+  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.109/TaskManagerPro-1.0.109-apple-silicon.dmg",
+  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.109/TaskManagerPro-1.0.109-intel.dmg"
 }
