@@ -1,7 +1,7 @@
 {
-  "version": "1.0.109",
-  "build": 209,
-  "notes": "Correct CPU temperature readings with chip-specific Apple Silicon core sensors.",
-  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.109/TaskManagerPro-1.0.109-apple-silicon.dmg",
-  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.109/TaskManagerPro-1.0.109-intel.dmg"
+  "version": "1.0.110",
+  "build": 210,
+  "notes": "Sample temperatures every 3 seconds and reject invalid or isolated false sensor readings.",
+  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.110/TaskManagerPro-1.0.110-apple-silicon.dmg",
+  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.110/TaskManagerPro-1.0.110-intel.dmg"
 }
