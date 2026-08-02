@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
-  "build": 1,
-  "notes": "Initial release with automatic Ethernet icon visibility, connection details, optional live network speed, launch at login, and in-app updates.",
-  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/macernet-v1.0.0/MacErnet-1.0.0-universal.dmg",
-  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/macernet-v1.0.0/MacErnet-1.0.0-universal.dmg",
-  "sha256": "ce19a13e1b79ab9ab8370e38e24098aa7652c856cbd8242512602658f9c89115"
+  "version": "1.0.1",
+  "build": 2,
+  "notes": "Adds a choice between two Ethernet menu bar icons and moves speed, update, and About controls into dedicated Settings tabs.",
+  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/macernet-v1.0.1/MacErnet-1.0.1-universal.dmg",
+  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/macernet-v1.0.1/MacErnet-1.0.1-universal.dmg",
+  "sha256": "643de7008af8de62f089af6eab977e71f410efea626bcc0780f99c1112a8d183"
 }
