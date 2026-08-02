@@ -1,8 +1,8 @@
 {
-  "version": "1.0.3",
-  "build": 3,
-  "notes": "Fixes updates that could get stuck while quitting, simplifies the Updates and About tabs, and uses the wired-network artwork as the app icon.",
-  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/macernet-v1.0.3/MacErnet-1.0.3-universal.dmg",
-  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/macernet-v1.0.3/MacErnet-1.0.3-universal.dmg",
-  "sha256": "47160937047726b97cb1131dd70a197924d05e7fc0b78a0fe58e6772bec306b9"
+  "version": "1.0.4",
+  "build": 4,
+  "notes": "Adds optional Wi-Fi power automation, preserves menu bar icon placement across Ethernet reconnects, and prevents transient network samples from making the app appear to quit.",
+  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/macernet-v1.0.4/MacErnet-1.0.4-universal.dmg",
+  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/macernet-v1.0.4/MacErnet-1.0.4-universal.dmg",
+  "sha256": "a8588f3a74c55ac62e144014f612edd42e4af00e82d149998a7ee85c72feef49"
 }
