@@ -1,7 +1,7 @@
 {
-  "version": "1.0.111",
-  "build": 211,
-  "notes": "Reduce background energy use with adaptive refresh rates, native telemetry, and lightweight fan supervision.",
-  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.111/TaskManagerPro-1.0.111-apple-silicon.dmg",
-  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.111/TaskManagerPro-1.0.111-intel.dmg"
+  "version": "1.0.112",
+  "build": 212,
+  "notes": "Add Pro Energy telemetry and reliable menu-bar window recovery while restoring the original fan animation speed.",
+  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.112/TaskManagerPro-1.0.112-apple-silicon.dmg",
+  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.112/TaskManagerPro-1.0.112-intel.dmg"
 }
