@@ -1,7 +1,7 @@
 {
-  "version": "1.0.114",
-  "build": 214,
-  "notes": "Restore the v1.0.112 fan icons and consolidate administrator authorization during setup and updates.",
-  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.114/TaskManagerPro-1.0.114-apple-silicon.dmg",
-  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.114/TaskManagerPro-1.0.114-intel.dmg"
+  "version": "1.0.115",
+  "build": 215,
+  "notes": "Move the Updater settings beside the Experience section for quicker access.",
+  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.115/TaskManagerPro-1.0.115-apple-silicon.dmg",
+  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.115/TaskManagerPro-1.0.115-intel.dmg"
 }
