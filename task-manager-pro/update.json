@@ -1,7 +1,7 @@
 {
-  "version": "1.0.116",
-  "build": 216,
-  "notes": "Validate typed fan speeds without clamping partial input and add persistent fan preset reordering.",
-  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.116/TaskManagerPro-1.0.116-apple-silicon.dmg",
-  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.116/TaskManagerPro-1.0.116-intel.dmg"
+  "version": "1.0.117",
+  "build": 217,
+  "notes": "Align Settings cards and add drag-to-reorder fan presets.",
+  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.117/TaskManagerPro-1.0.117-apple-silicon.dmg",
+  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.117/TaskManagerPro-1.0.117-intel.dmg"
 }
