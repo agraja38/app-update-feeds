@@ -1,7 +1,7 @@
 {
-  "version": "1.0.115",
-  "build": 215,
-  "notes": "Move the Updater settings beside the Experience section for quicker access.",
-  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.115/TaskManagerPro-1.0.115-apple-silicon.dmg",
-  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.115/TaskManagerPro-1.0.115-intel.dmg"
+  "version": "1.0.116",
+  "build": 216,
+  "notes": "Validate typed fan speeds without clamping partial input and add persistent fan preset reordering.",
+  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.116/TaskManagerPro-1.0.116-apple-silicon.dmg",
+  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.116/TaskManagerPro-1.0.116-intel.dmg"
 }
