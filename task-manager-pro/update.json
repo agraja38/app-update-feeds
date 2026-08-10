@@ -1,7 +1,7 @@
 {
-  "version": "1.0.117",
-  "build": 217,
-  "notes": "Align Settings cards and add drag-to-reorder fan presets.",
-  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.117/TaskManagerPro-1.0.117-apple-silicon.dmg",
-  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.117/TaskManagerPro-1.0.117-intel.dmg"
+  "version": "1.0.118",
+  "build": 218,
+  "notes": "Use a fixed three-second refresh interval and simplify process action menus.",
+  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.118/TaskManagerPro-1.0.118-apple-silicon.dmg",
+  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.118/TaskManagerPro-1.0.118-intel.dmg"
 }
