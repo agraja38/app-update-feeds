@@ -1,7 +1,7 @@
 {
   "version": "1.0.120",
   "build": 220,
-  "notes": "Format memory readings with adaptive MB and GB units and four significant figures.",
+  "notes": "Format memory readings with four significant figures and add resilient updater feed failover.",
   "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.120/TaskManagerPro-1.0.120-apple-silicon.dmg",
   "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.120/TaskManagerPro-1.0.120-intel.dmg"
 }
