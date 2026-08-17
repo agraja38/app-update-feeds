@@ -1,7 +1,7 @@
 {
-  "version": "1.0.120",
-  "build": 220,
-  "notes": "Format memory readings with four significant figures and add resilient updater feed failover.",
-  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.120/TaskManagerPro-1.0.120-apple-silicon.dmg",
-  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.120/TaskManagerPro-1.0.120-intel.dmg"
+  "version": "1.0.121",
+  "build": 221,
+  "notes": "Normalize per-process CPU and GPU telemetry to true 0-100 percent utilization.",
+  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.121/TaskManagerPro-1.0.121-apple-silicon.dmg",
+  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.121/TaskManagerPro-1.0.121-intel.dmg"
 }
