@@ -1,7 +1,7 @@
 {
-  "version": "1.0.118",
-  "build": 218,
-  "notes": "Use a fixed three-second refresh interval and simplify process action menus.",
-  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.118/TaskManagerPro-1.0.118-apple-silicon.dmg",
-  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.118/TaskManagerPro-1.0.118-intel.dmg"
+  "version": "1.0.119",
+  "build": 219,
+  "notes": "Use Activity Monitor-style process CPU and GPU sampling with a fixed two-second refresh.",
+  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.119/TaskManagerPro-1.0.119-apple-silicon.dmg",
+  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.119/TaskManagerPro-1.0.119-intel.dmg"
 }
