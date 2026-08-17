@@ -1,7 +1,7 @@
 {
-  "version": "1.0.119",
-  "build": 219,
-  "notes": "Use Activity Monitor-style process CPU and GPU sampling with a fixed two-second refresh.",
-  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.119/TaskManagerPro-1.0.119-apple-silicon.dmg",
-  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.119/TaskManagerPro-1.0.119-intel.dmg"
+  "version": "1.0.120",
+  "build": 220,
+  "notes": "Format memory readings with adaptive MB and GB units and four significant figures.",
+  "arm64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.120/TaskManagerPro-1.0.120-apple-silicon.dmg",
+  "x86_64AssetURL": "https://github.com/agraja38/app-update-feeds/releases/download/task-manager-pro-v1.0.120/TaskManagerPro-1.0.120-intel.dmg"
 }
